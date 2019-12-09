@@ -1,0 +1,38 @@
+[
+	{
+		"hostname": "testHostName",
+		"date_time_stamp": "2019-12-08T03:15:30-05:00",
+		"memory_used": 238,
+		"cpu_load": 0.9,
+		"cpu_load_per_core": 0.1,
+		"swap_percent_used": 10,
+		"24_hr_logins": 3
+	},
+	{
+		"hostname": "testHostName",
+		"date_time_stamp": "1994-11-05T09:15:30-05:00",
+		"memory_used": 100,
+		"cpu_load": 0.9,
+		"cpu_load_per_core": 0.1,
+		"swap_percent_used": 10,
+		"24_hr_logins": 3
+	},
+	{
+		"hostname": "testHostName",
+		"date_time_stamp": "1994-11-05T10:15:30-05:00",
+		"memory_used": 102,
+		"cpu_load": 33,
+		"cpu_load_per_core": 5.0,
+		"swap_percent_used": 10,
+		"24_hr_logins": 6
+	},
+	{
+		"hostname": "testHostName",
+		"date_time_stamp": "1994-11-05T11:15:30-05:00",
+		"memory_used": 33,
+		"cpu_load": 5.0,
+		"cpu_load_per_core": 2.0,
+		"swap_percent_used": 10,
+		"24_hr_logins": 3
+	}
+]
